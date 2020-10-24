@@ -64,6 +64,10 @@ input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
 }
+.c{
+text-decoration: none;
+color:black;
+}
 
 input, select, textarea {
 	-moz-appearance: none;
